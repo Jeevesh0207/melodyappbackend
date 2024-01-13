@@ -35,9 +35,9 @@ OtpGenerate.post('/generateotp', async (req, res) => {
         html: `
         <div style="text-align: start;">
             <h3>Account Verification Code</h3>
-            <p>Hi {Name},</p>
+            <p>Hi ${Name},</p>
             <p>Thank you for signing up for Melody Music! To verify your account, please enter the following code:</p>
-            <h4>{OTP}</h4>
+            <h4>${OTP}</h4>
             <p>This code is valid for 10 minutes. If you don't verify your account within this time, you will need to request a
                 new code.</p>
             <p>If you did not request this code, please ignore this email.</p>

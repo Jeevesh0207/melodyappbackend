@@ -62,10 +62,6 @@ SignUp.post('/verifyotp', async (req, res) => {
             if (Data) {
                 const Password = Data.Password
                 const UserName = Data.UserName
-                const ForgotEmail = Forgot
-                    .replace('{UserName}', UserName)
-                    .replace('{Email}', Email)
-                    .replace('{Password}', Password)
                 let Transport = await nodemailer.createTransport({
                     service: 'gmail',
                     auth: {
@@ -88,11 +84,11 @@ SignUp.post('/verifyotp', async (req, res) => {
                     html: `
                     <div style="text-align: start; font-family: Arial, sans-serif;">
                         <h3>Your Password Reset Request</h3>
-                        <p>Your Username : {UserName},</p>
-                        <p>Your Email id : {Email},</p>
+                        <p>Your Username : ${UserName},</p>
+                        <p>Your Email id : ${Email},</p>
                         <p>We hope this email finds you well. We received a request to reset the password associated with your account on Melody Music</p>
                         <p>This is your password. Please keep it safe</p>
-                        <h4 style="background-color: #f2f2f2; padding: 10px; display: inline-block; border-radius: 5px;">{Password}</h4>
+                        <h4 style="background-color: #f2f2f2; padding: 10px; display: inline-block; border-radius: 5px;">${Password}</h4>
                         <p>Sincerely,</p>
                         <p>Melody Music</p>
                     </div>
