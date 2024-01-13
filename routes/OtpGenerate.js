@@ -2,8 +2,6 @@ const express = require('express')
 const OtpGenerate = express.Router()
 const nodemailer = require('nodemailer')
 const Schema = require("../model/Schemas")
-// const fs = require('fs');
-// const emailTemplate = fs.readFileSync('./Email.html', 'utf-8');
 
 OtpGenerate.post('/generateotp', async (req, res) => {
     const Email = req.body.Email
@@ -14,9 +12,7 @@ OtpGenerate.post('/generateotp', async (req, res) => {
         const randomIndex = Math.floor(Math.random() * characters.length);
         OTP += characters.charAt(randomIndex);
     }
-    const personalizedEmail = emailTemplate
-        .replace('{Name}', Name)
-        .replace('{OTP}', OTP);
+    
     let Transport = await nodemailer.createTransport({
         service: 'gmail',
         auth: {
