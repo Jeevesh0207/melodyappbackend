@@ -2,8 +2,8 @@ const express = require("express")
 const SignUp = express.Router()
 const Schema = require("../model/Schemas")
 const nodemailer = require('nodemailer')
-const fs = require('fs');
-const Forgot = fs.readFileSync('./Forgot.html', 'utf-8');
+// const fs = require('fs');
+// const Forgot = fs.readFileSync('./Forgot.html', 'utf-8');
 SignUp.get('/checkfilldata', (req, res) => {
     res.send("SignUp")
 })
@@ -85,7 +85,18 @@ SignUp.post('/verifyotp', async (req, res) => {
                     from: 'testmail002007@gmail.com',
                     to: Email,
                     subject: 'Your Password Reset Request',
-                    html: ForgotEmail,
+                    html: `
+                    <div style="text-align: start; font-family: Arial, sans-serif;">
+                        <h3>Your Password Reset Request</h3>
+                        <p>Your Username : {UserName},</p>
+                        <p>Your Email id : {Email},</p>
+                        <p>We hope this email finds you well. We received a request to reset the password associated with your account on Melody Music</p>
+                        <p>This is your password. Please keep it safe</p>
+                        <h4 style="background-color: #f2f2f2; padding: 10px; display: inline-block; border-radius: 5px;">{Password}</h4>
+                        <p>Sincerely,</p>
+                        <p>Melody Music</p>
+                    </div>
+                    `,
                 };
                 Transport.sendMail(mailOption, async (error) => {
                     if (error) {

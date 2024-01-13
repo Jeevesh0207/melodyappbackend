@@ -2,8 +2,8 @@ const express = require('express')
 const OtpGenerate = express.Router()
 const nodemailer = require('nodemailer')
 const Schema = require("../model/Schemas")
-const fs = require('fs');
-const emailTemplate = fs.readFileSync('./Email.html', 'utf-8');
+// const fs = require('fs');
+// const emailTemplate = fs.readFileSync('./Email.html', 'utf-8');
 
 OtpGenerate.post('/generateotp', async (req, res) => {
     const Email = req.body.Email
@@ -36,7 +36,19 @@ OtpGenerate.post('/generateotp', async (req, res) => {
         from: 'testmail002007@gmail.com',
         to: Email,
         subject: 'One Time Password',
-        html: personalizedEmail,
+        html: `
+        <div style="text-align: start;">
+            <h3>Account Verification Code</h3>
+            <p>Hi {Name},</p>
+            <p>Thank you for signing up for Melody Music! To verify your account, please enter the following code:</p>
+            <h4>{OTP}</h4>
+            <p>This code is valid for 10 minutes. If you don't verify your account within this time, you will need to request a
+                new code.</p>
+            <p>If you did not request this code, please ignore this email.</p>
+            <p>Sincerely,</p>
+            <p>Melody Music</p>
+        </div>
+        `,
     };
     Transport.sendMail(mailOption, async (error) => {
         if (error) {
