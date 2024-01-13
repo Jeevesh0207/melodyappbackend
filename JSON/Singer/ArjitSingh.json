@@ -1,0 +1,355 @@
+{
+    "playListName": "Arjit Singh",
+    "songs": [
+        {
+            "id": 0,
+            "Name": "Chaleya",
+            "Artist": "Anirudh Ravichander, Arijit Singh, Shilpa Rao",
+            "YTID": "VAdGW7QDJiU",
+            "Url": "https://c.saavncdn.com/026/Chaleya-From-Jawan-Hindi-2023-20230814014337-500x500.jpg"
+        },
+        {
+            "id": 1,
+            "Name": "Apna Bana Le",
+            "Artist": "Sachin-Jigar, Arijit Singh",
+            "YTID": "ElZfdU54Cp8",
+            "Url": "https://c.saavncdn.com/815/Bhediya-Hindi-2023-20230927155213-500x500.jpg"
+        },
+        {
+            "id": 2,
+            "Name": "Satranga",
+            "Artist": "Arijit Singh, Shreyas Puranik, Siddharth-Garima",
+            "YTID": "HrnrqYxYrbk",
+            "Url": "https://c.saavncdn.com/415/Satranga-From-ANIMAL-Hindi-2023-20231027131032-500x500.jpg"
+        },
+        {
+            "id": 3,
+            "Name": "Kesariya",
+            "Artist": "Pritam, Arijit Singh, Amitabh Bhattacharya",
+            "YTID": "BddP6PYo2gs",
+            "Url": "https://c.saavncdn.com/191/Kesariya-From-Brahmastra-Hindi-2022-20220717092820-500x500.jpg"
+        },
+        {
+            "id": 4,
+            "Name": "O Maahi",
+            "Artist": "Pritam, Arijit Singh, Irshad Kamil",
+            "YTID": "Zlqf9cuaOBw",
+            "Url": "https://c.saavncdn.com/058/O-Maahi-From-Dunki-Hindi-2023-20231211171007-500x500.jpg"
+        },
+        {
+            "id": 5,
+            "Name": "Raat Akeli Thi",
+            "Artist": "Varun Grover, Pritam, Arijit Singh, Antara Mitra",
+            "YTID": "11Bf89nHffU",
+            "Url": "https://c.saavncdn.com/043/Raat-Akeli-Thi-From-Merry-Christmas-Hindi-2024-20240109222803-500x500.jpg"
+        },
+        {
+            "id": 6,
+            "Name": "Ruaan",
+            "Artist": "Pritam, Arijit Singh, Irshad Kamil",
+            "YTID": "OPazrdwYAm0",
+            "Url": "https://c.saavncdn.com/487/Ruaan-From-Tiger-3-Hindi-2023-20231106115814-500x500.jpg"
+        },
+        {
+            "id": 7,
+            "Name": "Jhoome Jo Pathaan",
+            "Artist": "Vishal &amp; Shekhar, Arijit Singh, Sukriti Kakar, Vishal Dadlani, Shekhar Ravjiani, Kumaar",
+            "YTID": "YxWlaYCA8MU",
+            "Url": "https://c.saavncdn.com/807/Pathaan-Hindi-2022-20221222104158-500x500.jpg"
+        },
+        {
+            "id": 8,
+            "Name": "Nashe Si Chadh Gayi",
+            "Artist": "Vishal &amp; Shekhar, Arijit Singh, Caralisa Monteiro, Jaideep Sahni",
+            "YTID": "HoCwa6gnmM0",
+            "Url": "https://c.saavncdn.com/256/Befikre-Hindi-2016-20190329150318-500x500.jpg"
+        },
+        {
+            "id": 9,
+            "Name": "Leke Prabhu Ka Naam",
+            "Artist": "Pritam, Arijit Singh, Nikhita Gandhi, Amitabh Bhattacharya",
+            "YTID": "6GxXehkPyBs",
+            "Url": "https://c.saavncdn.com/770/Leke-Prabhu-Ka-Naam-From-Tiger-3-Hindi-2023-20231023111427-500x500.jpg"
+        },
+        {
+            "id": 10,
+            "Name": "Ghungroo",
+            "Artist": "Vishal &amp; Shekhar, Arijit Singh, Shilpa Rao, Kumaar",
+            "YTID": "qFkNATtc3mc",
+            "Url": "https://c.saavncdn.com/881/War-Hindi-2019-20191001104931-500x500.jpg"
+        },
+        {
+            "id": 11,
+            "Name": "Tere Pyaar Mein",
+            "Artist": "Pritam, Arijit Singh, Nikhita Gandhi, Amitabh Bhattacharya",
+            "YTID": "IMg_UUJVpMo",
+            "Url": "https://c.saavncdn.com/367/Tere-Pyaar-Mein-From-Tu-Jhoothi-Main-Makkaar-Hindi-2023-20230203140532-500x500.jpg"
+        },
+        {
+            "id": 12,
+            "Name": "Zaalima",
+            "Artist": "Arijit Singh, Harshdeep Kaur",
+            "YTID": "lpdRqn6xwiM",
+            "Url": "https://c.saavncdn.com/334/Raees-Hindi-2016-20200430093124-500x500.jpg"
+        },
+        {
+            "id": 13,
+            "Name": "Tum Hi Ho",
+            "Artist": "Arijit Singh",
+            "YTID": "Umqb9KENgmk",
+            "Url": "https://c.saavncdn.com/430/Aashiqui-2-Hindi-2013-500x500.jpg"
+        },
+        {
+            "id": 14,
+            "Name": "Dhokha",
+            "Artist": "Arijit Singh, Manan Bhardwaj",
+            "YTID": "2JBYnvUlAEc",
+            "Url": "https://c.saavncdn.com/335/Dhokha-Hindi-2022-20220210031007-500x500.jpg"
+        },
+        {
+            "id": 15,
+            "Name": "Pal Pal Dil Ke Paas - Title Track",
+            "Artist": "Arijit Singh, Parampara Tandon",
+            "YTID": "lgTHGZF3BQw",
+            "Url": "https://c.saavncdn.com/328/Pal-Pal-Dil-Ke-Paas-Hindi-2019-20200420150444-500x500.jpg"
+        },
+        {
+            "id": 16,
+            "Name": "Tujhe Kitna Chahne Lage",
+            "Artist": "Arijit Singh, Mithoon",
+            "YTID": "AgX2II9si7w",
+            "Url": "https://c.saavncdn.com/807/Kabir-Singh-Hindi-2019-20190614075009-500x500.jpg"
+        },
+        {
+            "id": 17,
+            "Name": "Shayad",
+            "Artist": "Pritam, Arijit Singh",
+            "YTID": "MJyKN-8UncM",
+            "Url": "https://c.saavncdn.com/929/Shayad-From-Love-Aaj-Kal--Hindi-2020-20200122112631-500x500.jpg"
+        },
+        {
+            "id": 18,
+            "Name": "Ve Maahi",
+            "Artist": "Asees Kaur, Arijit Singh",
+            "YTID": "j6muwUGdvXw",
+            "Url": "https://c.saavncdn.com/693/Kesari-Hindi-2019-20200605001133-500x500.jpg"
+        },
+        {
+            "id": 19,
+            "Name": "Oonchi Oonchi Deewarein",
+            "Artist": "Manan Bhardwaj, Arijit Singh",
+            "YTID": "us9ZeVn6pM0",
+            "Url": "https://c.saavncdn.com/471/Oonchi-Oonchi-Deewarein-From-Yaariyan-2-Hindi-2023-20230919183037-500x500.jpg"
+        },
+        {
+            "id": 20,
+            "Name": "Ae Dil Hai Mushkil Title Track",
+            "Artist": "Pritam, Arijit Singh",
+            "YTID": "NY2gKc17YwI",
+            "Url": "https://c.saavncdn.com/257/Ae-Dil-Hai-Mushkil-Hindi-2016-500x500.jpg"
+        },
+        {
+            "id": 21,
+            "Name": "Qaafirana",
+            "Artist": "Arijit Singh, Nikhita Gandhi",
+            "YTID": "ZmcBC9-wAXM",
+            "Url": "https://c.saavncdn.com/367/Kedarnath-Hindi-2019-20190219-500x500.jpg"
+        },
+        {
+            "id": 22,
+            "Name": "Soch Na Sake",
+            "Artist": "Arijit Singh, Tulsi Kumar, Amaal Mallik",
+            "YTID": "MRtRcTfszjY",
+            "Url": "https://c.saavncdn.com/451/Airlift-Hindi-2015-500x500.jpg"
+        },
+        {
+            "id": 23,
+            "Name": "Khairiyat",
+            "Artist": "Pritam, Arijit Singh",
+            "YTID": "hoNb6HuNmU0",
+            "Url": "https://c.saavncdn.com/937/Chhichhore-Hindi-2019-20190904104023-500x500.jpg"
+        },
+        {
+            "id": 24,
+            "Name": "Muskurane",
+            "Artist": "Jeet Gannguli, Arijit Singh",
+            "YTID": "6eWNOlaRiGI",
+            "Url": "https://c.saavncdn.com/289/Muskurane-Romantic--Hindi-2014-20200721152134-500x500.jpg"
+        },
+        {
+            "id": 25,
+            "Name": "Bekhayali",
+            "Artist": "Arijit Singh",
+            "YTID": "VOLKJJvfAbg",
+            "Url": "https://c.saavncdn.com/807/Kabir-Singh-Hindi-2019-20190614075009-500x500.jpg"
+        },
+        {
+            "id": 26,
+            "Name": "Sanam Re",
+            "Artist": "Arijit Singh, Mithoon",
+            "YTID": "DS-raAyMxl4",
+            "Url": "https://c.saavncdn.com/829/Sanam-Re-Hindi-2015-500x500.jpg"
+        },
+        {
+            "id": 27,
+            "Name": "O Bedardeya",
+            "Artist": "Pritam, Arijit Singh, Amitabh Bhattacharya",
+            "YTID": "npwn6KVMtFI",
+            "Url": "https://c.saavncdn.com/576/O-Bedardeya-From-Tu-Jhoothi-Main-Makkaar-Hindi-2023-20230303194422-500x500.jpg"
+        },
+        {
+            "id": 28,
+            "Name": "Tere Hawaale",
+            "Artist": "Pritam, Arijit Singh, Shilpa Rao",
+            "YTID": "KUpwupYj_tY",
+            "Url": "https://c.saavncdn.com/576/Laal-Singh-Chaddha-Hindi-2022-20220805121002-500x500.jpg"
+        },
+        {
+            "id": 29,
+            "Name": "Deva Deva",
+            "Artist": "Pritam, Arijit Singh, Amitabh Bhattacharya, Jonita Gandhi",
+            "YTID": "mNuhKUOD_A0",
+            "Url": "https://c.saavncdn.com/044/Deva-Deva-From-Brahmastra-Hindi-2022-20220812225424-500x500.jpg"
+        },
+        {
+            "id": 30,
+            "Name": "Fanaa Kar Lo",
+            "Artist": "OAFF, Savera, Arijit Singh",
+            "YTID": "GaTXTx-wC_Y",
+            "Url": "https://c.saavncdn.com/411/Fanaa-Kar-Lo-From-Starfish-Hindi-2023-20231109131021-500x500.jpg"
+        },
+        {
+            "id": 31,
+            "Name": "Sooraj Dooba Hain",
+            "Artist": "Amaal Mallik, Arijit Singh, Aditi Singh Sharma",
+            "YTID": "nJZcbidTutE",
+            "Url": "https://c.saavncdn.com/647/Roy-Hindi-2015-500x500.jpg"
+        },
+        {
+            "id": 32,
+            "Name": "Lutt Putt Gaya",
+            "Artist": "Pritam, Arijit Singh, Swanand Kirkire, IP Singh",
+            "YTID": "9Z79T_o4v8c",
+            "Url": "https://c.saavncdn.com/265/Lutt-Putt-Gaya-From-Dunki-Hindi-2023-20231211171015-500x500.jpg"
+        },
+        {
+            "id": 33,
+            "Name": "Palat - Tera Hero Idhar Hai",
+            "Artist": "Sajid-Wajid, Arijit Singh",
+            "YTID": "9vkcYxbGdTE",
+            "Url": "https://c.saavncdn.com/700/Main-Tera-Hero-2014-500x500.jpg"
+        },
+        {
+            "id": 34,
+            "Name": "Raat Bhar",
+            "Artist": "Sajid-Wajid, Arijit Singh, Shreya Ghoshal",
+            "YTID": "4KFVySixs_E",
+            "Url": "https://c.saavncdn.com/930/Heropanti-2014-500x500.jpg"
+        },
+        {
+            "id": 35,
+            "Name": "Channa Mereya",
+            "Artist": "Pritam, Arijit Singh",
+            "YTID": "bzSTpdcs-EI",
+            "Url": "https://c.saavncdn.com/257/Ae-Dil-Hai-Mushkil-Hindi-2016-500x500.jpg"
+        },
+        {
+            "id": 36,
+            "Name": "Pachtaoge",
+            "Artist": "Arijit Singh",
+            "YTID": "PVxc5mIHVuQ",
+            "Url": "https://c.saavncdn.com/200/Pachtaoge-From-Jaani-Ve--Hindi-2019-20190823024539-500x500.jpg"
+        },
+        {
+            "id": 37,
+            "Name": "Kalank",
+            "Artist": "Pritam, Arijit Singh",
+            "YTID": "Grr0FlC8SQA",
+            "Url": "https://c.saavncdn.com/784/Kalank-Hindi-2019-20200508163312-500x500.jpg"
+        },
+        {
+            "id": 38,
+            "Name": "Phir Bhi Tumko Chaahunga",
+            "Artist": "Mithoon, Arijit Singh, Shashaa Tirupati",
+            "YTID": "_iktURk0X-A",
+            "Url": "https://c.saavncdn.com/441/Half-Girlfriend-Hindi-2017-20180622-500x500.jpg"
+        },
+        {
+            "id": 39,
+            "Name": "Hamari Adhuri Kahani",
+            "Artist": "Jeet Gannguli, Arijit Singh",
+            "YTID": "ENVBeAhNz1c",
+            "Url": "https://c.saavncdn.com/577/Hamari-Adhuri-Kahani-Hindi-2015-500x500.jpg"
+        },
+        {
+            "id": 40,
+            "Name": "Sawan Aaya Hai",
+            "Artist": "Tony Kakkar, Mithoon, Arijit Singh",
+            "YTID": "B5_6jfGsyjA",
+            "Url": "https://c.saavncdn.com/244/Creature-3D-Hindi-2014-500x500.jpg"
+        },
+        {
+            "id": 41,
+            "Name": "Mast Magan",
+            "Artist": "Shankar-Ehsaan-Loy, Arijit Singh, Chinmayi Sripada",
+            "YTID": "xitd9mEZIHk",
+            "Url": "https://c.saavncdn.com/930/2-States-2014-500x500.jpg"
+        },
+        {
+            "id": 42,
+            "Name": "Enna Sona",
+            "Artist": "A.R. Rahman, Arijit Singh",
+            "YTID": "ofTxceS4wLI",
+            "Url": "https://c.saavncdn.com/835/OK-Jaanu-Original-Motion-Picture-Soundtrack-Hindi-2017-20230203133341-500x500.jpg"
+        },
+        {
+            "id": 43,
+            "Name": "Teri Meri Kahaani",
+            "Artist": "Arijit Singh, Palak Muchhal",
+            "YTID": "ZWAGn4yyRMM",
+            "Url": "https://c.saavncdn.com/007/Gabbar-Is-Back-Hindi-2018-20180522-500x500.jpg"
+        },
+        {
+            "id": 44,
+            "Name": "First Class",
+            "Artist": "Pritam, Neeti Mohan, Arijit Singh",
+            "YTID": "e8B0AzmXPV8",
+            "Url": "https://c.saavncdn.com/784/Kalank-Hindi-2019-20200508163312-500x500.jpg"
+        },
+        {
+            "id": 45,
+            "Name": "Gerua",
+            "Artist": "Pritam, Arijit Singh, Antara Mitra",
+            "YTID": "AEIVhBS6baE",
+            "Url": "https://c.saavncdn.com/821/Dilwale-Hindi-2015-500x500.jpg"
+        },
+        {
+            "id": 46,
+            "Name": "Hawayein",
+            "Artist": "Pritam, Arijit Singh",
+            "YTID": "cs1e0fRyI18",
+            "Url": "https://c.saavncdn.com/260/Hawayein-From-Jab-Harry-Met-Sejal--Hindi-201720170726112607-500x500.jpg"
+        },
+        {
+            "id": 47,
+            "Name": "Kabhi Jo Baadal Barse",
+            "Artist": "Sharib Sabri, Toshi, Arijit Singh",
+            "YTID": "RazuWp5kSHk",
+            "Url": "https://c.saavncdn.com/151/Jackpot-2013-500x500.jpg"
+        },
+        {
+            "id": 48,
+            "Name": "Aaj Se Teri",
+            "Artist": "Arijit Singh",
+            "YTID": "NFsEqOBG51M",
+            "Url": "https://c.saavncdn.com/816/Padman-Hindi-2017-20171226-500x500.jpg"
+        },
+        {
+            "id": 49,
+            "Name": "Aayat",
+            "Artist": "Arijit Singh, Mujtaba Aziz Naza, Farhan Sabri, A.M. Turaz, Nasir Faraaz, Altamash Faridi",
+            "YTID": "vKDsAB1ccn0",
+            "Url": "https://c.saavncdn.com/324/Bajirao-Mastani-Hindi-2015-20230901132949-500x500.jpg"
+        }
+    ]
+}

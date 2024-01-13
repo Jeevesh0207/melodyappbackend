@@ -1,0 +1,355 @@
+{
+    "playListName": "New Release Punjabi",
+    "songs": [
+        {
+            "id": 0,
+            "Name": "Amplifier",
+            "Artist": "Imran Khan",
+            "YTID": "uuCFRaFWjwY",
+            "Url": "https://c.saavncdn.com/471/Unforgettable-English-2009-500x500.jpg"
+        },
+        {
+            "id": 1,
+            "Name": "Hass Hass",
+            "Artist": "Diljit Dosanjh, Sia, Greg Kurstin",
+            "YTID": "jADTdg-o8i0",
+            "Url": "https://c.saavncdn.com/245/Hass-Hass-English-2023-20231026170517-500x500.jpg"
+        },
+        {
+            "id": 2,
+            "Name": "Brown Rang",
+            "Artist": "Yo Yo Honey Singh",
+            "YTID": "paVnkNDzoZA",
+            "Url": "https://c.saavncdn.com/blob/924/International-Villager-Punjabi-2011-20220722144441-500x500.jpg"
+        },
+        {
+            "id": 3,
+            "Name": "White Brown Black",
+            "Artist": "Jaani, Avvy Sra, Karan Aujla",
+            "YTID": "BtQp2U6hJII",
+            "Url": "https://c.saavncdn.com/177/White-Brown-Black-Punjabi-2022-20221207053210-500x500.jpg"
+        },
+        {
+            "id": 4,
+            "Name": "California Love",
+            "Artist": "Cheema Y, Gur Sidhu",
+            "YTID": "rSxTumD4kew",
+            "Url": "https://c.saavncdn.com/647/ANYWAY-Punjabi-2023-20230123135558-500x500.jpg"
+        },
+        {
+            "id": 5,
+            "Name": "Pasoori",
+            "Artist": "Shae Gill, Ali Sethi",
+            "YTID": "5Eqb_-j3FDA",
+            "Url": "https://c.saavncdn.com/663/Pasoori-Punjabi-2022-20220203181058-500x500.jpg"
+        },
+        {
+            "id": 6,
+            "Name": "Softly",
+            "Artist": "Karan Aujla, IKKY",
+            "YTID": "cWMxCE2HTag",
+            "Url": "https://c.saavncdn.com/538/Making-Memories-English-2023-20230818075015-500x500.jpg"
+        },
+        {
+            "id": 7,
+            "Name": "295",
+            "Artist": "Sidhu Moose Wala",
+            "YTID": "n_FCrCQ6-bA",
+            "Url": "https://c.saavncdn.com/609/Moosetape-Punjabi-2021-20220427043323-500x500.jpg"
+        },
+        {
+            "id": 8,
+            "Name": "Nira Ishq",
+            "Artist": "Guri",
+            "YTID": "VO7Vu207-e8",
+            "Url": "https://c.saavncdn.com/885/Nira-Ishq-Punjabi-2018-20230811204132-500x500.jpg"
+        },
+        {
+            "id": 9,
+            "Name": "Brown Munde",
+            "Artist": "AP Dhillon, Gminxr, Gurinder Gill, Shinda Kahlon",
+            "YTID": "VNs_cCtdbPc",
+            "Url": "https://c.saavncdn.com/973/Brown-Munde-Unknown-2020-20200915002420-500x500.jpg"
+        },
+        {
+            "id": 10,
+            "Name": "Daru Badnaam",
+            "Artist": "Param Singh, Param Singh &amp; Kamal Kahlon With Pratik Studio, Kamal Kahlon",
+            "YTID": "bzW9fmwcmG4",
+            "Url": "https://c.saavncdn.com/125/Daru-Badnaam-Punjabi-2016-20191010170948-500x500.jpg"
+        },
+        {
+            "id": 11,
+            "Name": "Daku",
+            "Artist": "Chani Nattan",
+            "YTID": "WOdnRhWeHoY",
+            "Url": "https://c.saavncdn.com/533/Daku-feat-Inderpal-Moga-English-2021-20230309091928-500x500.jpg"
+        },
+        {
+            "id": 12,
+            "Name": "Ishare Tere",
+            "Artist": "Guru Randhawa, Dhvani Bhanushali",
+            "YTID": "8nGFWWJLHio",
+            "Url": "https://c.saavncdn.com/161/Ishare-Tere-Punjabi-2018-20180724123848-500x500.jpg"
+        },
+        {
+            "id": 13,
+            "Name": "Excuses",
+            "Artist": "AP Dhillon, Gurinder Gill, Intense",
+            "YTID": "vX2cDW8LUWk",
+            "Url": "https://c.saavncdn.com/890/Excuses-English-2021-20210930112054-500x500.jpg"
+        },
+        {
+            "id": 14,
+            "Name": "8 Parche",
+            "Artist": "Baani Sandhu, Gur Sidhu",
+            "YTID": "8WWv5_k8D14",
+            "Url": "https://c.saavncdn.com/746/8-Parche-Punjabi-2019-20190906081451-500x500.jpg"
+        },
+        {
+            "id": 15,
+            "Name": "Dope Shope",
+            "Artist": "Yo Yo Honey Singh",
+            "YTID": "ZFVUixpjJlI",
+            "Url": "https://c.saavncdn.com/blob/924/International-Villager-Punjabi-2011-20220722144441-500x500.jpg"
+        },
+        {
+            "id": 16,
+            "Name": "Na Ja",
+            "Artist": "Pav Dharia",
+            "YTID": "Q-GOFPM01d0",
+            "Url": "https://c.saavncdn.com/638/Na-Ja-Punjabi-2017-500x500.jpg"
+        },
+        {
+            "id": 17,
+            "Name": "Baari",
+            "Artist": "Bilal Saeed, Momina Mustehsan",
+            "YTID": "h18s7zlYOyg",
+            "Url": "https://c.saavncdn.com/523/Baari-Punjabi-2021-20210712221625-500x500.jpg"
+        },
+        {
+            "id": 18,
+            "Name": "Lamberghini",
+            "Artist": "The Doorbeen",
+            "YTID": "5X7WWVTrBvM",
+            "Url": "https://c.saavncdn.com/295/Lamberghini-Punjabi-2018-20180223-500x500.jpg"
+        },
+        {
+            "id": 19,
+            "Name": "Ik Tera",
+            "Artist": "Maninder Buttar",
+            "YTID": "bZxtKxiA2qo",
+            "Url": "https://c.saavncdn.com/639/Ik-Tera-Punjabi-2019-20190821184551-500x500.jpg"
+        },
+        {
+            "id": 20,
+            "Name": "Obsessed",
+            "Artist": "Riar Saab, Abhijay Sharma",
+            "YTID": "ZAp3xJ7GsY8",
+            "Url": "https://c.saavncdn.com/850/Obsessed-Punjabi-2022-20230428075345-500x500.jpg"
+        },
+        {
+            "id": 21,
+            "Name": "Wang Da Naap",
+            "Artist": "Ammy Virk",
+            "YTID": "nzhKAEYRHww",
+            "Url": "https://c.saavncdn.com/978/Wang-Da-Naap-Punjabi-2019-20190516072538-500x500.jpg"
+        },
+        {
+            "id": 22,
+            "Name": "Levels",
+            "Artist": "Sidhu Moose Wala",
+            "YTID": "tpFljbJxZiw",
+            "Url": "https://c.saavncdn.com/220/Levels-feat-Sunny-Malton-Punjabi-2022-20220525101628-500x500.jpg"
+        },
+        {
+            "id": 23,
+            "Name": "Libaas",
+            "Artist": "Kaka",
+            "YTID": "V5En3Ks3OjE",
+            "Url": "https://c.saavncdn.com/993/Libaas-Punjabi-2020-20201121180039-500x500.jpg"
+        },
+        {
+            "id": 24,
+            "Name": "Backbone",
+            "Artist": "Harrdy Sandhu, Jaani",
+            "YTID": "bqGtrvcR5ls",
+            "Url": "https://c.saavncdn.com/828/Backbone-Punjabi-2017-500x500.jpg"
+        },
+        {
+            "id": 25,
+            "Name": "Teeje Week",
+            "Artist": "Jordan Sandhu, Bunty Bains",
+            "YTID": "n92qIk6nU84",
+            "Url": "https://c.saavncdn.com/554/Teeje-Week-Punjabi-2018-20180222131512-500x500.jpg"
+        },
+        {
+            "id": 26,
+            "Name": "Lemonade",
+            "Artist": "Diljit Dosanjh",
+            "YTID": "Sb9SsxBPBEU",
+            "Url": "https://c.saavncdn.com/467/Drive-Thru-Punjabi-2022-20220708160425-500x500.jpg"
+        },
+        {
+            "id": 27,
+            "Name": "Ishq Tera",
+            "Artist": "Guru Randhawa",
+            "YTID": "3KXZduvOfDo",
+            "Url": "https://c.saavncdn.com/181/Ishq-Tera-Hindi-2019-20190910104000-500x500.jpg"
+        },
+        {
+            "id": 28,
+            "Name": "Khaab",
+            "Artist": "Akhil",
+            "YTID": "2eliQ_KR8yA",
+            "Url": "https://c.saavncdn.com/594/Khaab-Punjabi-2016-500x500.jpg"
+        },
+        {
+            "id": 29,
+            "Name": "Sarkar",
+            "Artist": "Jaura Phagwara",
+            "YTID": "fNiPOqHTB6M",
+            "Url": "https://c.saavncdn.com/873/Sarkar-Punjabi-2020-20220414183626-500x500.jpg"
+        },
+        {
+            "id": 30,
+            "Name": "3 Peg",
+            "Artist": "Sharry Mann",
+            "YTID": "hzTg4zPBtDU",
+            "Url": "https://c.saavncdn.com/213/3-Peg-Punjabi-2016-500x500.jpg"
+        },
+        {
+            "id": 31,
+            "Name": "Sakhiyaan",
+            "Artist": "Maninder Buttar",
+            "YTID": "S-ezhTXPVGU",
+            "Url": "https://c.saavncdn.com/714/Sakhiyaan-Punjabi-2018-20181017164150-500x500.jpg"
+        },
+        {
+            "id": 32,
+            "Name": "Tera Mera Viah",
+            "Artist": "Jass Manak",
+            "YTID": "lmdLCz4CAeA",
+            "Url": "https://c.saavncdn.com/153/Tera-Mera-Viah-Punjabi-2019-20220803040606-500x500.jpg"
+        },
+        {
+            "id": 33,
+            "Name": "Born to Shine",
+            "Artist": "Diljit Dosanjh",
+            "YTID": "dCmp56tSSmA",
+            "Url": "https://c.saavncdn.com/597/G-O-A-T-Punjabi-2020-20230915040651-500x500.jpg"
+        },
+        {
+            "id": 34,
+            "Name": "Kinni Kinni",
+            "Artist": "Diljit Dosanjh, Thiarajxtt",
+            "YTID": "ejYe2GwBEJ0",
+            "Url": "https://c.saavncdn.com/276/Ghost-English-2023-20231028142825-500x500.jpg"
+        },
+        {
+            "id": 35,
+            "Name": "Angreji Beat",
+            "Artist": "Yo Yo Honey Singh",
+            "YTID": "q0LehEw6EpM",
+            "Url": "https://c.saavncdn.com/blob/924/International-Villager-Punjabi-2011-20220722144441-500x500.jpg"
+        },
+        {
+            "id": 36,
+            "Name": "Bijlee Bijlee",
+            "Artist": "Harrdy Sandhu",
+            "YTID": "NwdQx2P_ytk",
+            "Url": "https://c.saavncdn.com/984/Bijlee-Bijlee-Punjabi-2021-20220729120741-500x500.jpg"
+        },
+        {
+            "id": 37,
+            "Name": "Dilawara",
+            "Artist": "The PropheC, Ezu",
+            "YTID": "Op4EMZXWjyE",
+            "Url": "https://c.saavncdn.com/483/Dilawara-Punjabi-2023-20230227061020-500x500.jpg"
+        },
+        {
+            "id": 38,
+            "Name": "Suit Punjabi",
+            "Artist": "Jass Manak",
+            "YTID": "HG96KYzCnbY",
+            "Url": "https://c.saavncdn.com/081/Suit-Punjabi-Punjabi-2018-20220804054805-500x500.jpg"
+        },
+        {
+            "id": 39,
+            "Name": "Sohnea",
+            "Artist": "Miss Pooja",
+            "YTID": "srl0cnKzGIw",
+            "Url": "https://c.saavncdn.com/269/Sohnea-Punjabi-2017-500x500.jpg"
+        },
+        {
+            "id": 40,
+            "Name": "Mitti Di Khushboo",
+            "Artist": "Ayushmann Khurrana",
+            "YTID": "8uJ-wOljP_s",
+            "Url": "https://c.saavncdn.com/563/Mitti-Di-Khushboo-Punjabi-2014-500x500.jpg"
+        },
+        {
+            "id": 41,
+            "Name": "Pagol",
+            "Artist": "Deep Jandu",
+            "YTID": "qIbz_FDkJxU",
+            "Url": "https://c.saavncdn.com/241/Pagol-Punjabi-2019-20190704155556-500x500.jpg"
+        },
+        {
+            "id": 42,
+            "Name": "All Black",
+            "Artist": "Raftaar, Sukh-E Muzical Doctorz",
+            "YTID": "ReXw6TOnUOc",
+            "Url": "https://c.saavncdn.com/380/All-Black-Punjabi-2015-500x500.jpg"
+        },
+        {
+            "id": 43,
+            "Name": "She Don#039t Know",
+            "Artist": "Millind Gaba",
+            "YTID": "_P3R63mmakg",
+            "Url": "https://c.saavncdn.com/239/She-Don-t-Know-From-Blessed--Punjabi-2019-20190108231528-500x500.jpg"
+        },
+        {
+            "id": 44,
+            "Name": "Waalian",
+            "Artist": "Harnoor",
+            "YTID": "rCoPr8UwRMc",
+            "Url": "https://c.saavncdn.com/176/Waalian-Punjabi-2020-20220804080504-500x500.jpg"
+        },
+        {
+            "id": 45,
+            "Name": "East Side Flow",
+            "Artist": "Sidhu Moose Wala",
+            "YTID": "jmigBo42low",
+            "Url": "https://c.saavncdn.com/599/East-Side-Flow-Punjabi-2019-20190317052003-500x500.jpg"
+        },
+        {
+            "id": 46,
+            "Name": "Same Beef",
+            "Artist": "Bohemia, Sidhu Moose Wala",
+            "YTID": "qk2WMmiiVFE",
+            "Url": "https://c.saavncdn.com/154/Same-Beef-Punjabi-2019-20190919071247-500x500.jpg"
+        },
+        {
+            "id": 47,
+            "Name": "Bapu Zimidar",
+            "Artist": "Jassie Gill",
+            "YTID": "qgbvMJsz1Rk",
+            "Url": "https://c.saavncdn.com/185/Replay-The-Return-of-Melody-Punjabi-2014-500x500.jpg"
+        },
+        {
+            "id": 48,
+            "Name": "12 Bande",
+            "Artist": "Varinder Brar",
+            "YTID": "yIR76Q3InbY",
+            "Url": "https://c.saavncdn.com/768/12-Bande-Punjabi-2021-20211012185905-500x500.jpg"
+        },
+        {
+            "id": 49,
+            "Name": "Check It Out",
+            "Artist": "Parmish Verma, Paradox",
+            "YTID": "RiZL2j5mIPw",
+            "Url": "https://c.saavncdn.com/820/Check-It-Out-Punjabi-2023-20230614182112-500x500.jpg"
+        }
+    ]
+}

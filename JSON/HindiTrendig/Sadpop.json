@@ -1,0 +1,215 @@
+{
+    "playListName": "Sad Pop Song",
+    "songs": [
+        {
+            "id": 0,
+            "Name": "Kya Loge Tum",
+            "Artist": "Jaani, B Praak",
+            "YTID": "cAMHx-m9oh8",
+            "Url": "https://c.saavncdn.com/111/Kya-Loge-Tum-Hindi-2023-20230507053259-500x500.jpg"
+        },
+        {
+            "id": 1,
+            "Name": "Yaar Ka Sataya Hua Hai",
+            "Artist": "Jaani, B Praak",
+            "YTID": "OBEOPnAO1hc",
+            "Url": "https://c.saavncdn.com/236/Yaar-Ka-Sataya-Hua-Hai-Hindi-2023-20230701053405-500x500.jpg"
+        },
+        {
+            "id": 2,
+            "Name": "Kabhi Shaam Dhale",
+            "Artist": "Jaani, Mohammad Faiz",
+            "YTID": "5dLqlFKmHDk",
+            "Url": "https://c.saavncdn.com/739/Kabhi-Shaam-Dhale-Hindi-2023-20231105053244-500x500.jpg"
+        },
+        {
+            "id": 3,
+            "Name": "Tu hai kahan",
+            "Artist": "AUR",
+            "YTID": "AX6OrbgS8lI",
+            "Url": "https://c.saavncdn.com/397/Tu-hai-kahan-Hindi-2023-20231016122634-500x500.jpg"
+        },
+        {
+            "id": 4,
+            "Name": "Ek Mulaqaat",
+            "Artist": "Javed-Mohsin, Vishal Mishra, Shreya Ghoshal",
+            "YTID": "HKw-2tWGr9g",
+            "Url": "https://c.saavncdn.com/787/Ek-Mulaqaat-Hindi-2023-20231121131003-500x500.jpg"
+        },
+        {
+            "id": 5,
+            "Name": "Tumhe Bhool Paana",
+            "Artist": "Shraddha Pandit, Pawan Singh, Salim-Sulaiman",
+            "YTID": "cIEjAYahkVA",
+            "Url": "https://c.saavncdn.com/532/Tumhe-Bhool-Paana-Hindi-2024-20240103235834-500x500.jpg"
+        },
+        {
+            "id": 6,
+            "Name": "Bhool Jaa",
+            "Artist": "Arijit Singh, Piyush Shankar, Rashmi Virag",
+            "YTID": "e-EIbRZ9S6g",
+            "Url": "https://c.saavncdn.com/601/Bhool-Jaa-Hindi-2023-20231006021003-500x500.jpg"
+        },
+        {
+            "id": 7,
+            "Name": "Aakhir",
+            "Artist": "Vishal Mishra",
+            "YTID": "_64oLoPMb9c",
+            "Url": "https://c.saavncdn.com/594/Aakhir-Hindi-2023-20231008053517-500x500.jpg"
+        },
+        {
+            "id": 8,
+            "Name": "Peena Chhod Doon",
+            "Artist": "Tony Kakkar",
+            "YTID": "L16U8QiY8yM",
+            "Url": "https://c.saavncdn.com/981/Unloved-Hindi-2024-20240102153534-500x500.jpg"
+        },
+        {
+            "id": 9,
+            "Name": "Bewafa Se Pyaar Kiya",
+            "Artist": "Jubin Nautiyal, Payal Dev, Manoj Muntashir",
+            "YTID": "2xJlerdkTyU",
+            "Url": "https://c.saavncdn.com/940/Bewafa-Se-Pyaar-Kiya-Hindi-2023-20230519135658-500x500.jpg"
+        },
+        {
+            "id": 10,
+            "Name": "Teri Galliyon Se",
+            "Artist": "Jubin Nautiyal, Meet Bros",
+            "YTID": "Is3lBP4PW90",
+            "Url": "https://c.saavncdn.com/584/Teri-Galliyon-Se-Hindi-2022-20220810175447-500x500.jpg"
+        },
+        {
+            "id": 11,
+            "Name": "Adhoora Pyaar",
+            "Artist": "Tony Kakkar",
+            "YTID": "_TbHV8dlIV8",
+            "Url": "https://c.saavncdn.com/532/Adhoora-Pyaar-Hindi-2023-20231120193638-500x500.jpg"
+        },
+        {
+            "id": 12,
+            "Name": "Chali Gayi Barsaat",
+            "Artist": "Akull, Mellow D",
+            "YTID": "oPprDIL32Wo",
+            "Url": "https://c.saavncdn.com/878/Chali-Gayi-Barsaat-Hindi-2023-20231014013127-500x500.jpg"
+        },
+        {
+            "id": 13,
+            "Name": "Tum Saath Rehnaa",
+            "Artist": "King",
+            "YTID": "SpoHVGwoiWs",
+            "Url": "https://c.saavncdn.com/169/NEW-LIFE-Hindi-2023-20231020234840-500x500.jpg"
+        },
+        {
+            "id": 14,
+            "Name": "Bhula Du",
+            "Artist": "Payal Dev, Stebin Ben, Sayeed Quadri",
+            "YTID": "Y5Rn7u8jQvA",
+            "Url": "https://c.saavncdn.com/051/Bhula-Du-Hindi-2023-20230914161153-500x500.jpg"
+        },
+        {
+            "id": 15,
+            "Name": "Gham Ki Baarish",
+            "Artist": "Rajat Ghosh, Raj Barman",
+            "YTID": "XtDCRhWsFO0",
+            "Url": "https://c.saavncdn.com/482/Gham-Ki-Baarish-Hindi-2023-20231030163532-500x500.jpg"
+        },
+        {
+            "id": 16,
+            "Name": "Zohrajabeen",
+            "Artist": "Jaani, B Praak",
+            "YTID": "5KkHLDkPcq8",
+            "Url": "https://c.saavncdn.com/592/Zohrajabeen-Hindi-2023-20230722053350-500x500.jpg"
+        },
+        {
+            "id": 17,
+            "Name": "Dhokebaaz",
+            "Artist": "Jaani, Afsana Khan",
+            "YTID": "8-gxHIOSZNA",
+            "Url": "https://c.saavncdn.com/016/Dhokebaaz-Hindi-2022-20220427053644-500x500.jpg"
+        },
+        {
+            "id": 18,
+            "Name": "Samandar Sharaab",
+            "Artist": "Harshit Shrivastava, Madhur Sharma",
+            "YTID": "M6hbHHkcfoY",
+            "Url": "https://c.saavncdn.com/708/Samandar-Sharaab-Hindi-2023-20231010053520-500x500.jpg"
+        },
+        {
+            "id": 19,
+            "Name": "Nazdeekiyon Mein Bhi",
+            "Artist": "Yasser Desai",
+            "YTID": "arqGaWh9GjQ",
+            "Url": "https://c.saavncdn.com/603/Nazdeekiyon-Mein-Bhi-Hindi-2023-20231012055648-500x500.jpg"
+        },
+        {
+            "id": 20,
+            "Name": "Mere Naal",
+            "Artist": "Sumeet Bellary, Bhoomi Trivedi, Sammy",
+            "YTID": "_mM5pMyHzMM",
+            "Url": "https://c.saavncdn.com/343/Mere-Naal-Punjabi-2023-20231003164427-500x500.jpg"
+        },
+        {
+            "id": 21,
+            "Name": "Marne Se Pehle",
+            "Artist": "Kunaal Vermaa, Armaan Malik, Amaal Mallik",
+            "YTID": "-tQrRdlypfs",
+            "Url": "https://c.saavncdn.com/206/ONLY-JUST-BEGUN-Hindi-2023-20231129134533-500x500.jpg"
+        },
+        {
+            "id": 22,
+            "Name": "Manmaani",
+            "Artist": "AKASA",
+            "YTID": "ty6FB7drBY8",
+            "Url": "https://c.saavncdn.com/028/Manmaani-Hindi-2023-20230926160603-500x500.jpg"
+        },
+        {
+            "id": 23,
+            "Name": "Tum Jhoothe Ho",
+            "Artist": "Rahul Jain",
+            "YTID": "hx6nHrv9e18",
+            "Url": "https://c.saavncdn.com/632/Tum-Jhoothe-Ho-Hindi-2023-20230927171847-500x500.jpg"
+        },
+        {
+            "id": 24,
+            "Name": "Dhoke Pyaar Ke",
+            "Artist": "Rochak Kohli, B Praak",
+            "YTID": "J38KKgAslkI",
+            "Url": "https://c.saavncdn.com/023/Dhoke-Pyaar-Ke-Feat-Khushalii-Kumar-Hindi-2022-20220722181701-500x500.jpg"
+        },
+        {
+            "id": 25,
+            "Name": "Bairiya",
+            "Artist": "Arijit Singh, Amitabh Bhattacharya, Goldie Sohel",
+            "YTID": "gHa0YlssZis",
+            "Url": "https://c.saavncdn.com/297/Bairiya-Hindi-2023-20230314171414-500x500.jpg"
+        },
+        {
+            "id": 26,
+            "Name": "Judaiyaan",
+            "Artist": "Tanveer Evan, Rajat Nagpal",
+            "YTID": "B5aEaY_BNbY",
+            "Url": "https://c.saavncdn.com/895/Judaiyaan-Hindi-2023-20230906130126-500x500.jpg"
+        },
+        {
+            "id": 27,
+            "Name": "Haaye Dard",
+            "Artist": "Darshan Raval",
+            "YTID": "rB5EUu6GjyE",
+            "Url": "https://c.saavncdn.com/504/Dard-Hindi-2023-20230807105001-500x500.jpg"
+        },
+        {
+            "id": 28,
+            "Name": "Chorr De",
+            "Artist": "Stebin Ben, Rochak Kohli, Gurpreet Saini",
+            "YTID": "zt7kuOiKD0I",
+            "Url": "https://c.saavncdn.com/984/Chorr-De-Hindi-2023-20230717170141-500x500.jpg"
+        },
+        {
+            "id": 29,
+            "Name": "Galtiyan",
+            "Artist": "Arijit Singh",
+            "YTID": "hp_labuiDHY",
+            "Url": "https://c.saavncdn.com/871/Galtiyan-Hindi-2023-20230708063957-500x500.jpg"
+        }
+    ]
+}
