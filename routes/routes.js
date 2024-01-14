@@ -7,6 +7,7 @@ const SongFetch = require("./SongFetch")
 const SongData = require("./SongData")
 const Search = require("./Search")
 const AddToFavourite = require("./AddToFavourite")
+const DeleteAccount = require("./DeleteAccount")
 
 router.use('/',SignUp)
 router.use('/',OtpGenerate)
@@ -15,5 +16,6 @@ router.use('/',SongFetch)
 router.use('/',SongData)
 router.use('/',Search)
 router.use('/',AddToFavourite)
+router.use('/',DeleteAccount)
 
 module.exports=router
