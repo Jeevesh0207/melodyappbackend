@@ -12,6 +12,7 @@ AddToFavourite.post('/addtofavorite', async (req, res) => {
     const uniqueId = req.body.uniqueId
     const UserData = Schema.UsersData
     const UserFavData = await UserData.findOne({ UserName: UserName })
+    console.log(UserName,UserFavData)
     const SongsArray = UserFavData.SongData
     // if (YTID !== "" && SongsArray.some(item => item.YTID === YTID)) {
     //     const PullData = await UserData.updateOne({ UserName: UserName }, {
