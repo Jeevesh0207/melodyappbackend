@@ -52,7 +52,7 @@ AddToFavourite.post('/addtofavorite', async (req, res) => {
     //         res.send("Data Added")
     //     }
     // }
-    if(SongsArray.some(item => item.Name === Name)){
+    if (SongsArray.some(item => item.Name === Name)) {
         const PullData = await UserData.updateOne({ UserName: UserName }, {
             $pull: {
                 SongData: {
@@ -63,7 +63,7 @@ AddToFavourite.post('/addtofavorite', async (req, res) => {
         if (PullData) {
             res.send("Data Deleted")
         }
-    }else{
+    } else {
         const AddData = await UserData.updateOne({ UserName: UserName }, {
             $push: {
                 SongData: {
@@ -87,11 +87,11 @@ AddToFavourite.post('/addtofavorite/find', async (req, res) => {
     const UserName = req.body.UserName
     const YTID = req.body.YTID
     const uniqueId = req.body.uniqueId
-    const Name=req.body.Name
+    const Name = req.body.Name
     const UserData = Schema.UsersData
     const UserFavData = await UserData.findOne({ UserName: UserName })
     const SongsArray = UserFavData.SongData
-    if (SongsArray!==undefined) {
+    if (SongsArray !== undefined) {
         if (SongsArray.some(item => item.Name === Name)) {
             res.send("Present")
         } else {
@@ -110,21 +110,19 @@ AddToFavourite.post('/addtofavorite/find', async (req, res) => {
 
 
 AddToFavourite.post('/addtofavorite/data', async (req, res) => {
-    try {
-        const UserName = req.body.UserName
-        const UserData = Schema.UsersData
-        const UserFavData = await UserData.findOne({ UserName: UserName })
 
-        if (UserFavData) {
-            const SongsArray = UserFavData.SongData
-            res.send(SongsArray)
-        } else {
-            res.send('No data found for the user');
-        }
-    } catch (error) {
-        console.error(error);
-        res.status(500).send('Internal Server Error');
+    const UserName = req.body.UserName
+    const UserData = Schema.UsersData
+    const UserFavData = await UserData.findOne({ UserName: UserName })
+    console.log(UserData)
+    if (UserFavData && UserFavData.SongData) {
+        const SongsArray = UserFavData.SongData
+        res.send(SongsArray)
+    }else{
+        res.send("Error")
     }
+    
+
 });
 
 
