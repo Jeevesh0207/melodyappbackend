@@ -1,0 +1,84 @@
+const express = require("express")
+const AddToFavourite = express.Router()
+const Schema = require('../model/Schemas')
+
+AddToFavourite.post('/addtofavorite', async (req, res) => {
+    const UserName = req.body.UserName
+    const Name = req.body.Name
+    const Artist = req.body.Artist
+    const Url = req.body.Url
+    const SongUrl = req.body.SongUrl
+    const YTID = req.body.YTID
+    const uniqueId = req.body.uniqueId
+    const UserData = Schema.UsersData
+    const UserFavData = await UserData.findOne({ UserName: UserName })
+    const SongsArray = UserFavData.SongData
+    if (YTID !== "" && SongsArray.some(item => item.YTID === YTID)) {
+        const PullData = await UserData.updateOne({ UserName: UserName }, {
+            $pull: {
+                SongData: {
+                    YTID: YTID
+                }
+            }
+        })
+        if (PullData) {
+            res.send("Data Deleted")
+        }
+    } else if (uniqueId !== "" &&  SongsArray.some(item => item.uniqueId === uniqueId)) {
+        const PullData = await UserData.updateOne({ UserName: UserName }, {
+            $pull: {
+                SongData: {
+                    uniqueId: uniqueId
+                }
+            }
+        })
+        if (PullData) {
+            res.send("Data Deleted")
+        }
+    } else {
+        const AddData = await UserData.updateOne({ UserName: UserName }, {
+            $push: {
+                SongData: {
+                    Name: Name,
+                    Artist: Artist,
+                    Url: Url,
+                    SongUrl: SongUrl,
+                    YTID: YTID,
+                    uniqueId: uniqueId
+                }
+            }
+        })
+        if (AddData) {
+            res.send("Data Added")
+        }
+    }
+    res.end()
+})
+
+AddToFavourite.post('/addtofavorite/find', async (req, res) => {
+    const UserName = req.body.UserName
+    const YTID = req.body.YTID
+    const uniqueId = req.body.uniqueId
+    const UserData = Schema.UsersData
+    // console.log(UserName,YTID,uniqueId)
+    const UserFavData = await UserData.findOne({ UserName: UserName })
+    const SongsArray = UserFavData.SongData
+    // console.log(SongsArray)
+    if (YTID !== "" && SongsArray!==undefined) {
+        if (SongsArray.some(item => item.YTID === YTID)) {
+            res.send("Present")
+        } else {
+            res.send("Not Present")
+        }
+    } else if(SongsArray!==undefined) {
+        if (SongsArray.some(item => item.uniqueId === uniqueId)) {
+            res.send("Present")
+        } else {
+            res.send("Not Present")
+        }
+    }
+    res.end()
+})
+
+
+module.exports = AddToFavourite
