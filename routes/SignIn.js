@@ -37,11 +37,13 @@ SignIn.post('/getdata',async(req,res)=>{
     const UserName=req.body.UserName
     const UserData=Schema.UsersData
     const Data=await UserData.findOne({UserName:UserName})
-    const Obj={
-        Name:Data.Name,
-        UserName:Data.UserName
+    if(Data){
+        const Obj={
+            Name:Data.Name,
+            UserName:Data.UserName
+        }
+        res.send(Obj)
     }
-    res.send(Obj)
 })
 
 module.exports=SignIn
