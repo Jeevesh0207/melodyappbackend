@@ -38,14 +38,14 @@ SignIn.post('/getdata',async(req,res)=>{
     const UserData=Schema.UsersData
     const Data=await UserData.findOne({UserName:UserName})
     // res.send(Data)
-    console.log(Data)
-    // if(Data){
-    //     const Obj={
-    //         Name:Data.Name,
-    //         UserName:Data.UserName
-    //     }
-    //     res.send(Obj)
-    // }
+    // console.log(Data)
+    if(Data){
+        const Obj={
+            Name:Data.Name,
+            UserName:Data.UserName
+        }
+        res.send(Obj)
+    }
     res.end()
 })
 
