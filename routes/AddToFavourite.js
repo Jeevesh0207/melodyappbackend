@@ -75,9 +75,9 @@ AddToFavourite.post('/addtofavorite/data', async (req, res) => {
 
     const UserName = req.body.UserName
     const UsersData = Schema.UsersData
-    const UserFavData = await UsersData.findOne({ UserName: UserName })
     console.log(UserName, UserFavData)
-    if (UserFavData && UserFavData.SongData) {
+    const UserFavData = await UsersData.findOne({ UserName: UserName })
+    if (UserFavData) {
         const SongsArray = UserFavData.SongData
         res.send(SongsArray)
     } else {
