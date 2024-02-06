@@ -6,7 +6,7 @@ Search.get('/search/:parameter', async (req, res) => {
     try {
         const name = req.params.parameter;
         // console.log(name)
-        const url = `https://saavn.me/search/songs?query=${name}&page=1&limit=20`;
+        const url = `https://saavn.dev/search/songs?query=${name}&page=1&limit=20`;
         let cancelToken = null;
         if (cancelToken) {
             cancelToken.cancel('Operations cancelled due to new request');
