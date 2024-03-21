@@ -6,7 +6,7 @@ Search.get('/search/:parameter', async (req, res) => {
     try {
         const name = req.params.parameter;
         // console.log(name)
-        const url = `https://saavn.dev/search/songs?query=${name}&page=1&limit=20`;
+        const url = `https://saavn.dev/api/search/songs?query=${name}&page=1&limit=20`;
         let cancelToken = null;
         if (cancelToken) {
             cancelToken.cancel('Operations cancelled due to new request');
@@ -22,9 +22,9 @@ Search.get('/search/:parameter', async (req, res) => {
             const itemName = item.name;
             const itemArtist = item.primaryArtists;
             const imgLen = item.image.length;
-            const imgUrl = item.image[imgLen - 1].link;
+            const imgUrl = item.image[imgLen - 1].url;
             const songLen = item.downloadUrl.length;
-            const songUrl = item.downloadUrl[songLen - 1].link;
+            const songUrl = item.downloadUrl[songLen - 1].url;
             const uniqueId=item.id
             return {
                 id: index,
