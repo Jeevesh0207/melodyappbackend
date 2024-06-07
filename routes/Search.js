@@ -18,9 +18,11 @@ Search.get('/search/:parameter', async (req, res) => {
         const data = response.data;
         const allData = data.data.results;
 
+        // res.send(allData)
+
         const array = allData.map((item, index) => {
             const itemName = item.name;
-            const itemArtist = item.primaryArtists;
+            const itemArtist = item.artists.primary[0].name;
             const imgLen = item.image.length;
             const imgUrl = item.image[imgLen - 1].url;
             const songLen = item.downloadUrl.length;
